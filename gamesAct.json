@@ -1,0 +1,242 @@
+[
+  {
+    "Titulo": "Call of Duty®: Modern Warfare® III - Cross-Gen Bundle",
+    "Precio": "$45.49",
+    "PrecioOriginal": "$69.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1415/8d9af953f938ba6cb9f9e73cd94424df2d33b0f313794739.png?w=940",
+    "Plataforma": "PS4, PS5",
+    "FechaSalida": "11/2/2023",
+    "Publisher": "Activision",
+    "Genero": "Action"
+  },
+  {
+    "Titulo": "NBA 2K24 Black Mamba Edition",
+    "Precio": "$24.99",
+    "PrecioOriginal": "$99.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2809/2786898bb6a733168d63a6d243f07705e730c8476c5872d1.jpg?w=940",
+    "Plataforma": "PS4, PS5",
+    "FechaSalida": "9/8/2023",
+    "Publisher": "2K",
+    "Genero": "Sport"
+  },
+  {
+    "Titulo": "STAR WARS Jedi: Survivor™",
+    "Precio": "$31.49",
+    "PrecioOriginal": "$69.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2814/24a5bc14faa8f69c74a9a8d7b729509841a1c9046bc9a7f3.png?w=940",
+    "Plataforma": "PS5",
+    "FechaSalida": "4/28/2023",
+    "Publisher": "Electronic Arts Inc",
+    "Genero": "Action"
+  },
+  {
+    "Titulo": "STAR WARS Jedi: Survivor™ Deluxe Upgrade",
+    "Precio": "$15.00",
+    "PrecioOriginal": "$20.00",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1016/fbec71cb8ba9ef0b11cacc4555e11514b574e17d74637d2f.png?w=940",
+    "Plataforma": "PS5",
+    "FechaSalida": "4/28/2023",
+    "Publisher": "Electronic Arts Inc",
+    "Genero": "Action"
+  },
+  {
+    "Titulo": "Banishers: Ghosts of New Eden",
+    "Precio": "$47.99",
+    "PrecioOriginal": "$59.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3008/4e03a795e3565f9ca3e27ff7ec3a0c942960f8f77b524b7a.jpg?w=940",
+    "Plataforma": "PS5",
+    "FechaSalida": "2/13/2024",
+    "Publisher": "Focus Entertainment",
+    "Genero": "Adventure"
+  },
+  {
+    "Titulo": "Red Dead Redemption 2",
+    "Precio": "$19.79",
+    "PrecioOriginal": "$59.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/img/rnd/202011/1215/WyHa1BM3ISDVqYSEUMB9VZJs.png?w=940",
+    "Plataforma": "PS4",
+    "FechaSalida": "10/26/2018",
+    "Publisher": "Rockstar Games",
+    "Genero": "Action, Adventure, Unique"
+  },
+  {
+    "Titulo": "Gran Turismo® 7",
+    "Precio": "$29.99",
+    "PrecioOriginal": "$59.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1321/y7iyxoBE8VKotN89QCFhLgLM.png?w=940",
+    "Plataforma": "PS4",
+    "FechaSalida": "3/4/2022",
+    "Publisher": "Sony Interactive Entertainment",
+    "Genero": "Driving/Racing"
+  },
+  {
+    "Titulo": "Gran Turismo® 7",
+    "Precio": "$39.89",
+    "PrecioOriginal": "$69.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1321/y7iyxoBE8VKotN89QCFhLgLM.png?w=940",
+    "Plataforma": "PS4, PS5",
+    "FechaSalida": "3/4/2022",
+    "Publisher": "Sony Interactive Entertainment",
+    "Genero": "Driving/Racing"
+  },
+  {
+    "Titulo": "NBA 2K24 Kobe Bryant Edition for PS4™",
+    "Precio": "$11.99",
+    "PrecioOriginal": "$59.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2809/a9fe3100a67c5d90e6cc5d24ebab09b8305468493192deac.jpg?w=940",
+    "Plataforma": "PS4",
+    "FechaSalida": "9/8/2023",
+    "Publisher": "2K",
+    "Genero": "Sport"
+  },
+  {
+    "Titulo": "NBA 2K24 Kobe Bryant Edition for PS5™",
+    "Precio": "$17.49",
+    "PrecioOriginal": "$69.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2809/2c34881f74d68c60603b482bd3a2f838a187b89380e0d85a.jpg?w=940",
+    "Plataforma": "PS5",
+    "FechaSalida": "9/8/2023",
+    "Publisher": "2K",
+    "Genero": "Sport"
+  },
+  {
+    "Titulo": "Hogwarts Legacy PS5 Version",
+    "Precio": "$34.99",
+    "PrecioOriginal": "$69.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0921/3XopdGAJGRy3xNQKnQDvaCRs.png?w=940",
+    "Plataforma": "PS5",
+    "FechaSalida": "2/10/2023",
+    "Publisher": "Warner Bros. Interactive",
+    "Genero": "Unique"
+  },
+  {
+    "Titulo": "Hogwarts Legacy PS4 Version",
+    "Precio": "$29.99",
+    "PrecioOriginal": "$59.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0921/3XopdGAJGRy3xNQKnQDvaCRs.png?w=940",
+    "Plataforma": "PS4",
+    "FechaSalida": "5/5/2023",
+    "Publisher": "Warner Bros. Interactive",
+    "Genero": "Unique"
+  },
+  {
+    "Titulo": "Mortal Kombat™ 1",
+    "Precio": "$34.99",
+    "PrecioOriginal": "$69.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1515/c8388641302e1fd8f8f1044f13b398027f188eb695a0d652.jpg?w=940",
+    "Plataforma": "PS5",
+    "FechaSalida": "9/19/2023",
+    "Publisher": "Warner Bros. Interactive",
+    "Genero": "Fighting"
+  },
+  {
+    "Titulo": "UFC® 5",
+    "Precio": "$41.99",
+    "PrecioOriginal": "$69.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0618/beb1a84d0ee21953fa958ffda32aa4643e4f31c5b24c0a14.png?w=940",
+    "Plataforma": "PS5",
+    "FechaSalida": "10/27/2023",
+    "Publisher": "Electronic Arts Inc",
+    "Genero": "Fighting"
+  },
+  {
+    "Titulo": "Grand Theft Auto V (PlayStation®5)",
+    "Precio": "$19.99",
+    "PrecioOriginal": "$39.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0302/bZ1JTRXzoyl3hkcsloKcCgdB.jpg?w=940",
+    "Plataforma": "PS5",
+    "FechaSalida": "3/15/2022",
+    "Publisher": "Rockstar Games",
+    "Genero": "Action, Adventure"
+  },
+  {
+    "Titulo": "Grand Theft Auto V: Premium Edition",
+    "Precio": "$14.99",
+    "PrecioOriginal": "$29.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/img/rnd/202102/0422/TkQfZ0v0NF1p8YHovQPIYtr5.png?w=940",
+    "Plataforma": "PS4",
+    "FechaSalida": "12/19/2017",
+    "Publisher": "Rockstar Games",
+    "Genero": "Action, Adventure"
+  },
+  {
+    "Titulo": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
+    "Precio": "$49.99",
+    "PrecioOriginal": "$99.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1220/993434409238400c5ce419709a38d81267a4e7e103263db3.jpg?w=940",
+    "Plataforma": "PS5",
+    "FechaSalida": "1/30/2024",
+    "Publisher": "Warner Bros. Interactive",
+    "Genero": "Shooter"
+  },
+  {
+    "Titulo": "Persona 3 Reload PS4 & PS5",
+    "Precio": "$52.49",
+    "PrecioOriginal": "$69.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2605/19353f11f85964dd2be8eae4564a0e78b011a81824d9b4a9.png?w=940",
+    "Plataforma": "PS4, PS5",
+    "FechaSalida": "2/2/2024",
+    "Publisher": "SEGA of America, Inc.",
+    "Genero": "Role Playing Games"
+  },
+  {
+    "Titulo": "Persona 3 Reload Digital Premium Edition PS4 & PS5",
+    "Precio": "$74.99",
+    "PrecioOriginal": "$99.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2807/ce36d13fc1ffcd40452e6039cb15c4b2502cc43f4be185a7.png?w=940",
+    "Plataforma": "PS4, PS5",
+    "FechaSalida": "2/2/2024",
+    "Publisher": "SEGA of America, Inc.",
+    "Genero": "Role Playing Games"
+  },
+  {
+    "Titulo": "Persona 3 Reload DLC Pack PS4 & PS5",
+    "Precio": "$21.59",
+    "PrecioOriginal": "$26.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2605/f29f1faf9b60d864bb36ce7112909ada4843be179d00e191.png?w=940",
+    "Plataforma": "PS4, PS5",
+    "FechaSalida": "2/2/2024",
+    "Publisher": "SEGA of America, Inc.",
+    "Genero": "Role Playing Games"
+  },
+  {
+    "Titulo": "Madden NFL 24 Deluxe Edition PS5™ & PS4™",
+    "Precio": "$29.99",
+    "PrecioOriginal": "$99.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2716/0da33f37c119a2f4be11a0cba0811f2aeebb5a323b4c58e6.png?w=940",
+    "Plataforma": "PS4, PS5",
+    "FechaSalida": "8/15/2023",
+    "Publisher": "Electronic Arts Inc",
+    "Genero": "Sport"
+  },
+  {
+    "Titulo": "Alan Wake 2",
+    "Precio": "$47.99",
+    "PrecioOriginal": "$59.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2420/2b117db6108244a85769f8009df39f8006b226d8a2831b3a.jpg?w=940",
+    "Plataforma": "PS5",
+    "FechaSalida": "10/27/2023",
+    "Publisher": "Epic Games",
+    "Genero": "Horror"
+  },
+  {
+    "Titulo": "Alan Wake 2 Deluxe Edition",
+    "Precio": "$63.99",
+    "PrecioOriginal": "$79.99",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2420/c49268f421ed16d45a53af7fed7fd615a1cb6285942ba9e6.jpg?w=940",
+    "Plataforma": "PS5",
+    "FechaSalida": "10/27/2023",
+    "Publisher": "Epic Games",
+    "Genero": "Horror"
+  },
+  {
+    "Titulo": "Alan Wake 2 Deluxe Upgrade",
+    "Precio": "$16.00",
+    "PrecioOriginal": "$20.00",
+    "Imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2420/c49268f421ed16d45a53af7fed7fd615a1cb6285942ba9e6.jpg?w=940",
+    "Plataforma": "PS5",
+    "FechaSalida": "10/27/2023",
+    "Publisher": "Epic Games",
+    "Genero": "Unique"
+  }
+]
